@@ -1,0 +1,15 @@
+D:\VS\Algorithm-Code-Kata\Algorithm\obj\Debug\net6.0\Algorithm.csproj.AssemblyReference.cache
+D:\VS\Algorithm-Code-Kata\Algorithm\obj\Debug\net6.0\Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Algorithm-Code-Kata\Algorithm\obj\Debug\net6.0\Algorithm.AssemblyInfoInputs.cache
+D:\VS\Algorithm-Code-Kata\Algorithm\obj\Debug\net6.0\Algorithm.AssemblyInfo.cs
+D:\VS\Algorithm-Code-Kata\Algorithm\obj\Debug\net6.0\Algorithm.csproj.CoreCompileInputs.cache
+D:\VS\Algorithm-Code-Kata\Algorithm\bin\Debug\net6.0\Algorithm.exe
+D:\VS\Algorithm-Code-Kata\Algorithm\bin\Debug\net6.0\Algorithm.deps.json
+D:\VS\Algorithm-Code-Kata\Algorithm\bin\Debug\net6.0\Algorithm.runtimeconfig.json
+D:\VS\Algorithm-Code-Kata\Algorithm\bin\Debug\net6.0\Algorithm.dll
+D:\VS\Algorithm-Code-Kata\Algorithm\bin\Debug\net6.0\Algorithm.pdb
+D:\VS\Algorithm-Code-Kata\Algorithm\obj\Debug\net6.0\Algorithm.dll
+D:\VS\Algorithm-Code-Kata\Algorithm\obj\Debug\net6.0\refint\Algorithm.dll
+D:\VS\Algorithm-Code-Kata\Algorithm\obj\Debug\net6.0\Algorithm.pdb
+D:\VS\Algorithm-Code-Kata\Algorithm\obj\Debug\net6.0\Algorithm.genruntimeconfig.cache
+D:\VS\Algorithm-Code-Kata\Algorithm\obj\Debug\net6.0\ref\Algorithm.dll
