@@ -6,13 +6,9 @@ public class Solution {
         long answer = 0;
         
         char[] chr = n.ToString().ToCharArray();
-        string str = "";
-        int[] a = Array.ConvertAll(chr,s => int.Parse(s));
-        a = a.OrderByDescending(c=>c);
-        for(int i=0; i<a.Length; i++){
-            str += a[i].ToString();
-        }
-        answer = long.Parse(str);
+        Array.Sort(chr);
+        Array.Reverse(chr);
+        answer = Convert.ToInt64(new string(chr));
         
         return answer;
     }
